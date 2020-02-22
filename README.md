@@ -11,4 +11,4 @@ A [Fisher-transformed][] rolling [Pearson correlation][] is useful for computing
 
 Steiner, Luzius A., Marek Czosnyka, Stefan K. Piechnik, Piotr Smielewski, Doris Chatfield, David K. Menon, and John D. Pickard. “Continuous Monitoring of Cerebrovascular Pressure Reactivity Allows Determination of Optimal Cerebral Perfusion Pressure in Patients with Traumatic Brain Injury.” Critical Care Medicine 30, no. 4 (April 2002): 733–38. https://doi.org/10.1097/00003246-200204000-00002.
 
-[Code and demo](main.py)
+[Code and demo](main.ipynb)
